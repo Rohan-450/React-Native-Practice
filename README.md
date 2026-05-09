@@ -19,7 +19,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Screenshots
 
-![Sign In](assets/images/signin.jpeg)
+![Sign In](signin.jpeg)
 
 
 
