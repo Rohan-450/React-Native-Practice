@@ -19,7 +19,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Screenshots
 
-![Sign In](signin.jpeg)
-
+<img src="signin.jpeg" width="200" height="600">
 
 
